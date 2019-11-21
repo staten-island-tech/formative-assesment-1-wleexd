@@ -1,0 +1,20 @@
+body{
+    background-image: url(Media/chinese\ flag.jpg) ;
+    height: 100vh
+    linear-gradient(to bottom right,
+    red
+    );
+}
+.header{
+    height: 15vh;
+    background-color: lightblue;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 0 1px 3px 4px;
+}
+html{
+    margin: 0;
+    font-size: 62.5%;
+    padding: 0;
+    box-sizing border-box;
+}
